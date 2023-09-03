@@ -2127,7 +2127,7 @@ header .logo {
 }
 
 #services .section-intro h1 {
-	color: #ec7e09;
+	color: #FFFF;
 }
 #services .section-intro h5 {
 	color: #ec7e09;
@@ -2152,10 +2152,10 @@ header .logo {
 }
 .services-list .icon i {
 	font-size: 5.4rem;
-	color: #ec7e09;
+	color: #ffebd4;
 }
 .services-list h3 {
-	color: #ec7e09;
+	color: #ffebd4;
 }
 .services-list .desc {
 	color: #fbb76e;
