@@ -41,6 +41,9 @@
   width: 1.28571429em;
   text-align: center;
 }
+.fa-custom-color {
+  color: #FF9800;
+}
 .fa-ul {
   padding-left: 0;
   margin-left: 2.14285714em;
@@ -228,6 +231,7 @@
 }
 .fa-home:before {
   content: "\f015";
+  color: #FF9800;
 }
 .fa-file-o:before {
   content: "\f016";
