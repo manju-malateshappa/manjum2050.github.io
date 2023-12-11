@@ -1,4 +1,4 @@
 # My Portfolio Website
 
-https://github.com/manju-malateshappa.github.io
+https://manju-malateshappa.github.io/manjum2050.github.io/
 # My-website
